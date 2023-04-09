@@ -12,3 +12,11 @@ Diksha (32), Meghana (45), Satwika (39) and Manaswini (08)
 
 ![image](https://user-images.githubusercontent.com/59244300/230778102-6e6e4af1-ed78-4eaa-89d6-b2ff002dc541.png)
 
+Steps to run:
+
+1. Open XAMPP and start Apache server.
+2. Open browser and open "localhost/MainProject"
+3. Upload dataset.
+4. Run Python file - script.py
+5. Anonymized dataset stored locally in the MainProject folder.
+
