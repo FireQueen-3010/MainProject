@@ -14,7 +14,7 @@ if(isset($_POST['submit'])){
 				echo "Anonymized dataset saved to BigBasket_anonymized.csv<br>";
 				echo "Feature selection scores plot saved to feature_scores.png<br>";
 			}else{
-				echo "File uploaded, please run the Python Script now! Novel project created by Diksha (32), Satwika (39), Meghana (45) and Manaswini (08)";
+				echo "File uploaded, please run the Python Script now! Novel project created by Diksha (32), Satwika (39), Meghana (45) and Manaswini (08) under the guidance of ASSOCIATE PROF. SYED MUJIB RAHAMAN";
 			}
 		}else{
 			echo "File upload unsuccessful";
