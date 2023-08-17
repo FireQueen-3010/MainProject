@@ -3,6 +3,9 @@ Depersonalize: A Novel Project based on anonymizing data created using SelectKbe
 
 Technologies used: Python, PHP, HTML, CSS.
 
+Documentation - https://docs.google.com/document/d/1kzWesHLBQvycmmygIpwab6S-V1WcfncO/edit?usp=sharing&ouid=115922419347053227544&rtpof=true&sd=true
+
+Presentation - https://docs.google.com/presentation/d/1zRzdUgSn0wmWtmewqzVWabbqSPBboaFX/edit?usp=sharing&ouid=115922419347053227544&rtpof=true&sd=true
 
 Part of Final Year Main Project
 
